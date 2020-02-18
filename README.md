@@ -12,3 +12,5 @@ My research on Project manager
 - [What is the future of Software Development? This site "Preforce" has intresting articles](https://www.perforce.com/blog/the-future-of-software-development)(read)
 - [How To Start a Project](https://www.projectmanager.com/blog/how-to-start-a-project)(read)
 - [The Only Project Kickoff Checklist You’ll Ever Need](https://www.projectmanager.com/blog/project-kickoff-checklist)(read)
+- [What Is Project Management? - mindtools](https://www.mindtools.com/pages/article/newPPM_00.htm)(read)
+- [How Good Are Your Project Management Skills? - mindtools](https://www.mindtools.com/pages/article/newPPM_60.htm)(read)
