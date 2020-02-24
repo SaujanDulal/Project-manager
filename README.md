@@ -14,3 +14,7 @@ My research on Project manager
 - [The Only Project Kickoff Checklist You’ll Ever Need](https://www.projectmanager.com/blog/project-kickoff-checklist)(read)
 - [What Is Project Management? - mindtools](https://www.mindtools.com/pages/article/newPPM_00.htm)(read)
 - [How Good Are Your Project Management Skills? - mindtools](https://www.mindtools.com/pages/article/newPPM_60.htm)(read)
+- [Technical Documentation in Software Development: Types, Best Practices, and Tools](https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/)(***read)
+- [Product Roadmap: Key Features, Common Types, and Roadmap Building Tips](https://www.altexsoft.com/blog/business/product-roadmap-key-features-common-types-and-roadmap-building-tips/)(***read)
+- [Agile Project Management: Best Practices and Methodologies](https://www.altexsoft.com/whitepapers/agile-project-management-best-practices-and-methodologies/)(***Read)
+- [Estimating Software Engineering Effort: Project and Product Development Approach](https://www.altexsoft.com/whitepapers/estimating-software-engineering-effort-project-and-product-development-approach/)(**read)
