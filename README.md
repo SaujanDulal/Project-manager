@@ -18,3 +18,5 @@ My research on Project manager
 - [Product Roadmap: Key Features, Common Types, and Roadmap Building Tips](https://www.altexsoft.com/blog/business/product-roadmap-key-features-common-types-and-roadmap-building-tips/)(***read)
 - [Agile Project Management: Best Practices and Methodologies](https://www.altexsoft.com/whitepapers/agile-project-management-best-practices-and-methodologies/)(***Read)
 - [Estimating Software Engineering Effort: Project and Product Development Approach](https://www.altexsoft.com/whitepapers/estimating-software-engineering-effort-project-and-product-development-approach/)(**read)
+- [9 Essential Project Documents](https://www.girlsguidetopm.com/9-essential-project-documents/)(*read)
+- [The Ultimate List of 42 Free Project Management Templates](https://www.workamajig.com/blog/project-management-templates)(***read)
