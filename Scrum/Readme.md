@@ -17,6 +17,12 @@
 - [Splitting User Stories - Agile Practices](https://www.youtube.com/watch?v=EDT0HMtDwYI)(watch)
 - [How To Write User Stories](https://www.youtube.com/watch?v=eYZ8vBXL1kk)(***watch)
 - [8-02 Agile API Development: Epics, User Stories & Tasks](https://www.youtube.com/watch?v=MHm2YuszaFM)(**watch)
+- [How To Write User Stories, Epics, & Personas - Dev Life](https://www.youtube.com/watch?v=Fw98L-kcRpc)(***watch)
+
+   #### Acceptance criteria
+   - [User Stories and Acceptance Criteria | How to Write Agile User Stories & Acceptance Criteria](https://www.youtube.com/watch?v=OWG0KE5GZJY)(***watch)
+   - [How To Incorporate Behaviour Driven Development in Acceptance Criteria?](https://hackernoon.com/behaviour-driven-development-in-acceptance-criteria-hab5305z)(***read)
+   
 
 ### User Story Points
 - [Learn agile estimation in 10 minutes](https://www.youtube.com/watch?v=Hwu438QSb_g)(***watch)
