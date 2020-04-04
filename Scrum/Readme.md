@@ -11,6 +11,7 @@
 ### User Stories
 - [How to Write Good User Stories Using [3 Key] Components](https://www.youtube.com/watch?v=ctFzjMygaRo)(***watch)
 - [Requirement Traceability Matrices (RTM)](https://www.youtube.com/watch?v=omD6Wtn7kdI)(*watch)
+- [10 TIPS FOR WRITING GOOD USER STORIES](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)(***read)
 - [User Story in details for Agile Software Development.](https://www.youtube.com/watch?v=R62Iu_4zcpU)(***watch)
 - [How to Write User Stories](https://www.youtube.com/watch?v=nE8ALJ2M004)(watch)
 - [Agile User Stories](https://www.youtube.com/watch?v=apOvF9NVguA)(watch)
@@ -24,14 +25,15 @@
    - [How To Incorporate Behaviour Driven Development in Acceptance Criteria?](https://hackernoon.com/behaviour-driven-development-in-acceptance-criteria-hab5305z)(***read)
    
 
-### User Story Points
+### How to estimate Projects?
+- [Software Costs Estimation In Agile Project Management](https://www.toptal.com/agile/software-costs-estimation-in-agile-project-management)(***read)
 - [Learn agile estimation in 10 minutes](https://www.youtube.com/watch?v=Hwu438QSb_g)(***watch)
+- [Velocity](https://www.agilealliance.org/glossary/velocity#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'velocity))~searchTerm~'~sort~false~sortDirection~'asc~page~1))(read)
+- [Agile Estimation Techniques: A True Estimation In An Agile Project- see acceptance criterai](https://www.softwaretestinghelp.com/agile-estimation-techniques/)(read)
+- [Agile Velocity and Capacity Planning Relationship](https://www.youtube.com/channel/UCrO6unrTcPFn8EQIlPPixWQ)(***watch)
 
 ### User Story Mapping
 - [User Story Mapping | Business Analysis Techniques | EP 1](https://www.youtube.com/watch?v=QYkYdfiwsCM)(***watch)
-
-### Story point estimation
-- [Agile Simulation - Story Point Sizing](https://www.youtube.com/watch?v=cUPluPrpGLw)(***watch)
 
 ### Requirement Gathering
 - [Requirement Gathering Interview](https://www.youtube.com/watch?v=I1RIhmf0IlI)(***watch)
